@@ -104,7 +104,13 @@
   line-height: 1.8 !important;
 }
 .img-border-primary {
-  border: 15px solid var(--primary) !important;
+  border-top: 15px solid var(--primary) !important;
+  border-right: 15px solid var(--primary) !important;
+  border-radius: 50px !important;
+}
+.img-border-left-primary {
+  border-top: 15px solid var(--primary) !important;
+  border-left: 15px solid var(--primary) !important;
   border-radius: 50px !important;
 }
 .img-border-white {

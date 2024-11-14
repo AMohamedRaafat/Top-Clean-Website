@@ -204,7 +204,7 @@ $(document).ready(function () {
          <div class="row">
                 <div class="col-md-6 my-5">
                     <div class="img d-flex align-items-center justify-content-center position-relative">
-                        <img src="${features.bigImgSrc}" alt="خدمات تنظيف توب كلين | Top Clean cleaning services" class="img-border-primary big-img">
+                        <img src="${features.bigImgSrc}" alt="خدمات تنظيف توب كلين | Top Clean cleaning services" class="img-border-left-primary big-img">
                         <img src="${features.floatImgSrc}" alt="خدمات تنظيف توب كلين | Top Clean cleaning services" class="img-border-white features-float-img ">
                     </div>
                 </div>
