@@ -275,7 +275,10 @@ $(document).ready(function () {
         rtl: true,
         loop: true,
         margin: 50,
-        nav: true,
+        nav: false, autoplay: true,
+        autoplayTimeout: 1500,
+        autoplayHoverPause: true,
+
         responsive: {
             0: {
                 items: 1,
