@@ -276,7 +276,7 @@ $(document).ready(function () {
         loop: true,
         margin: 50,
         nav: false, autoplay: true,
-        autoplayTimeout: 1500,
+        autoplayTimeout: 5000,
         autoplayHoverPause: true,
 
         responsive: {
