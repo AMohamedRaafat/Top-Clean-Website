@@ -1,5 +1,5 @@
 const header = {
-    bgImg: "../assets/img/header-bg.png",
+    bgImg: "../assets/img/header-bg.webp",
     title: "نظافة ترفع مستوى حياتك, مع توب كلين نظافة تليق بك.",
     subTitle: "جودة عالية بسعر مناسب",
     subTitle1: "نقدم لكم افضل نتائج للنظافة بأقصر وقت وبأقل تكلفة وبدون تعب",
@@ -12,7 +12,7 @@ const services = [
     {
         id: 0,
         title: "تنظيف السجاد",
-        imgSrc: "assets/img/14.jpg",
+        imgSrc: "assets/img/14.webp",
         text: "تنظيف السجاد بعمق لإزالة الغبار, الأوساخ, والبقع باستخدام تقنيات متقدمة",
         buttonText: "احجز الان",
         buttonLink: "#contact-us",
@@ -20,7 +20,7 @@ const services = [
     {
         id: 1,
         title: "تنظيف الشركات والفنادق",
-        imgSrc: "assets/img/18.jpg",
+        imgSrc: "assets/img/18.webp",
         text: "تقديم خدمات تنظيف مخصصة للمكاتب والفنادق لتوفير بيئة عمل نظيفة ومريحة.",
         buttonText: "احجز الان",
         buttonLink: "#contact-us",
@@ -28,7 +28,7 @@ const services = [
     {
         id: 2,
         title: "تنظيف المنازل والشقق والفلل",
-        imgSrc: "assets/img/20.jpg",
+        imgSrc: "assets/img/20.webp",
         text: "خدمات تنظيف شاملة للمنازل, الشقق, والفلل لضمان نظافة كل زاوية.",
         buttonText: "احجز الان",
         buttonLink: "#contact-us",
@@ -40,8 +40,8 @@ const whoUsSection = {
     text: "نحن شركة سعودية متخصصة في تقديم خدمات نظافة شاملة وعميقة, نهدف إلى تلبية احتياجات المنازل الجديدة والأثاث المنزلي في جميع أنحاء المملكة. نعتمد على فريق عمل مدرب واحترافي يتقن تنفيض الأعمال بكفاءة عالية ودقة متناهية, مستخدمين في ذلك مواد تنظيف إيطالية آمنة وفعالة, بالإضافة إلى معدات حديثة مستوردة من أوروبا وأمريكا. نفخر بتقديم حلول تنظيف تتجاوز توقعات عملائنا, مستندين إلى سنوات من اخلبرة والتفاني لضمان توفير بيئة نظيفة وصحية تُعزز راحة وسلامة كل منازل عملائنا",
     buttonText: "تواصل معنا لمعرفة المزيد عنا",
     buttonLink: "#contact-us",
-    bigImgSrc: "assets/img/10.jpg",
-    floatImgSrc: "assets/img/11.jpg",
+    bigImgSrc: "assets/img/10.webp",
+    floatImgSrc: "assets/img/11.webp",
 };
 const visionSection = [
     {
@@ -66,8 +66,8 @@ const visionSection = [
     },
 ];
 const features = {
-    bigImgSrc: "assets/img/17.jpg",
-    floatImgSrc: "assets/img/2.jpg",
+    bigImgSrc: "assets/img/17.webp",
+    floatImgSrc: "assets/img/2.webp",
     title: "مميزات خدماتنا",
     buttonText: "احجز الأن",
     buttonLink: "#contact-us",
